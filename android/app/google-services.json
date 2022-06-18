@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "617159606534",
+    "project_id": "book-my-cafe",
+    "storage_bucket": "book-my-cafe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617159606534:android:a2c41bcfcb7f1f56591e87",
+        "android_client_info": {
+          "package_name": "com.example.restroapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617159606534-atgmmsdvnqoulom5iodumddcalms25f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuh0l3O6UuK89clcmil0B9PUH2SFC2_6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617159606534-atgmmsdvnqoulom5iodumddcalms25f0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
